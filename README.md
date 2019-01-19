@@ -36,7 +36,7 @@ Works with: Bootstrap 4.x, ACF 5.x, Wordpress 5.0.x
 2. Define .desc_slide_input class.
 ```css
     .desc_slide_input {
-        font-size: 12px;
+        font-size: 10px;
         color: white;
     }
 ```
