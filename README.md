@@ -26,7 +26,17 @@ Works with: Bootstrap 4.x, ACF 5.x, Wordpress 5.0.x
 
 ### CSS
 1. Define .title_slide_input class.
-      - change attributes (color, font-size)
+```css
+    .title_slide_input {
+        font-size: 12px;
+        color: white;
+    }
+```
   
 2. Define .desc_slide_input class.
-      - change attributes (color, font-size)
+```css
+    .desc_slide_input {
+        font-size: 12px;
+        color: white;
+    }
+```
