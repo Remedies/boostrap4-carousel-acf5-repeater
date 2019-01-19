@@ -1,5 +1,5 @@
 # WP Bootstrap 4.x ACF 5.x Dynamic Repeater Carousel
-A Dynamic custom ACF Pro repeater using bootstrap 4's carousel. 
+A Dynamic custom ACF Pro repeater using bootstrap 4's carousel. This allows you to create a slide show using ACF pro and bootstrap's default carousel.
 
 ## Installation
 Copy and paste onto your .php page template for Wordpress.
