@@ -20,6 +20,9 @@ Works with: Bootstrap 4.x, ACF 5.x, Wordpress 5.0.x
       
     c. slide_description
       - type: Text
+      
+3. Connect to your page template/type, post template/type.
+4. Edit page. and fill in the fields.
 
 ### CSS
 1. Define .title_slide_input class.
